@@ -1,7 +1,7 @@
 [
     {
       "id": "123456",
-      "cover": "https://example.com/cover1.jpg",
+      "cover": "https://i.ibb.co/9sFKfYV/laptop-half-closed-dark-with-colourful-glow-cup-coffee-glasses.jpg",
       "title": "The Enigma of Time",
       "author": "Emily Smith",
       "author_img": "https://example.com/author1.jpg",
@@ -11,7 +11,7 @@
     },
     {
       "id": "789012",
-      "cover": "https://example.com/cover2.jpg",
+      "cover": "https://i.ibb.co/q0pwgDN/wireless-keyboard-mouse-with-tablets-succulent-plant-eyeglasses-against-yellow-surface.jpg",
       "title": "Echoes of Eternity",
       "author": "David Johnson",
       "author_img": "https://example.com/author2.jpg",
@@ -21,7 +21,7 @@
     },
     {
       "id": "345678",
-      "cover": "https://example.com/cover3.jpg",
+      "cover": "https://i.ibb.co/9cVSyjd/blog-website-development-data-network-concept.jpg",
       "title": "Whispers in the Dark",
       "author": "Samantha Lee",
       "author_img": "https://example.com/author3.jpg",
