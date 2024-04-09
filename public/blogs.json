@@ -1,53 +1,72 @@
 [
-    {
-      "id": "123456",
-      "cover": "https://i.ibb.co/9sFKfYV/laptop-half-closed-dark-with-colourful-glow-cup-coffee-glasses.jpg",
-      "title": "The Enigma of Time",
-      "author": "Emily Smith",
-      "author_img": "https://example.com/author1.jpg",
-      "posted_date": "April 4, 2024",
-      "reading_time": 10,
-      "hashtags": "#mystery #time #fiction"
-    },
-    {
-      "id": "789012",
-      "cover": "https://i.ibb.co/q0pwgDN/wireless-keyboard-mouse-with-tablets-succulent-plant-eyeglasses-against-yellow-surface.jpg",
-      "title": "Echoes of Eternity",
-      "author": "David Johnson",
-      "author_img": "https://example.com/author2.jpg",
-      "posted_date": "April 3, 2024",
-      "reading_time": 15,
-      "hashtags": "#fantasy #adventure #epic"
-    },
-    {
-      "id": "345678",
-      "cover": "https://i.ibb.co/9cVSyjd/blog-website-development-data-network-concept.jpg",
-      "title": "Whispers in the Dark",
-      "author": "Samantha Lee",
-      "author_img": "https://example.com/author3.jpg",
-      "posted_date": "April 2, 2024",
-      "reading_time": 12,
-      "hashtags": "#horror #thriller #suspense"
-    },
-    {
-      "id": "901234",
-      "cover": "https://example.com/cover4.jpg",
-      "title": "Songs of Serenity",
-      "author": "Michael Brown",
-      "author_img": "https://example.com/author4.jpg",
-      "posted_date": "April 1, 2024",
-      "reading_time": 8,
-      "hashtags": "#poetry #inspiration #peace"
-    },
-    {
-      "id": "567890",
-      "cover": "https://example.com/cover5.jpg",
-      "title": "Dreams of Destiny",
-      "author": "Rachel Adams",
-      "author_img": "https://example.com/author5.jpg",
-      "posted_date": "March 31, 2024",
-      "reading_time": 20,
-      "hashtags": "#romance #destiny #love"
-    }
-  ]
-  
+  {
+    "id": "123456",
+    "cover": "https://i.ibb.co/9sFKfYV/laptop-half-closed-dark-with-colourful-glow-cup-coffee-glasses.jpg",
+    "title": "The Enigma of Time",
+    "author": "Emily Smith",
+    "author_img": "src/assets/images/boy1.png",
+    "posted_date": "April 4, 2024",
+    "reading_time": 10,
+    "hashtags": [
+      "mystery",
+      "time",
+      "fiction"
+    ]
+  },
+  {
+    "id": "789012",
+    "cover": "https://i.ibb.co/q0pwgDN/wireless-keyboard-mouse-with-tablets-succulent-plant-eyeglasses-against-yellow-surface.jpg",
+    "title": "Echoes of Eternity",
+    "author": "David Johnson",
+    "author_img": "src/assets/images/boy2.png",
+    "posted_date": "April 3, 2024",
+    "reading_time": 15,
+    "hashtags": [
+      "fantasy",
+      "adventure",
+      "epic"
+    ]
+  },
+  {
+    "id": "345678",
+    "cover": "https://i.ibb.co/9cVSyjd/blog-website-development-data-network-concept.jpg",
+    "title": "Whispers in the Dark",
+    "author": "Samantha Lee",
+    "author_img": "src/assets/images/girl1.jpg",
+    "posted_date": "April 2, 2024",
+    "reading_time": 12,
+    "hashtags": [
+      "horror",
+      "thriller",
+      "suspense"
+    ]
+  },
+  {
+    "id": "901234",
+    "cover": "src/assets/images/2.png",
+    "title": "Songs of Serenity",
+    "author": "Michael Brown",
+    "author_img": "src/assets/images/girl2.jpg",
+    "posted_date": "April 1, 2024",
+    "reading_time": 8,
+    "hashtags": [
+      "poetry",
+      "inspiration",
+      "peace"
+    ]
+  },
+  {
+    "id": "567890",
+    "cover": "src/assets/images/4.jpg",
+    "title": "Dreams of Destiny",
+    "author": "Rachel Adams",
+    "author_img": "src/assets/images/boy1.png",
+    "posted_date": "March 31, 2024",
+    "reading_time": 20,
+    "hashtags": [
+      "romance",
+      "destiny",
+      "love"
+    ]
+  }
+]
